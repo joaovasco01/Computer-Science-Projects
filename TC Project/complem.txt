@@ -1,0 +1,22 @@
+a Q_ QQ rr a
+a A_ AA rr a
+a Y_ YN rr a
+a N_ NY rr a
+a L_ LL rr a
+a R_ RR rr a
+a S_ SS rr a
+a ;_ ;; rr a
+a 0_ 00 rr a
+a 1_ 11 rr a
+a 2_ 22 rr a 
+a 3_ 33 rr a
+a 4_ 44 rr a
+a 5_ 55 rr a
+a 6_ 66 rr a
+a 7_ 77 rr a
+a 8_ 88 rr a
+a 9_ 99 rr a
+a __ __ *l b
+
+b __ __ *r halt-accept
+b _* _* *l b

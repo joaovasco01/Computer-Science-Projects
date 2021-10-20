@@ -1,0 +1,674 @@
+
+a Q____ Q____ r**** b
+
+b 0____ 00___ rr*** b
+b *____ *____ r**** b
+b A____ A____ r**** bb
+
+bb *____ *____ r**** bb
+bb $____ $____ r**** d
+
+d Q____ Q____ r**** d
+d 0____ 0_0__ r*r** d
+d *____ *____ r**** d
+d A____ A____ r**** dddd
+
+dddd *____ *____ r**** dddd
+dddd $____ $____ r**** ddd
+
+ddd Q____ Q____ r**** ddd
+ddd 0____ 0__0_ r**r* ddd
+ddd *____ *____ r**** ddd
+ddd A____ A____ r**** dd
+
+dd *____ *____ r**** dd
+dd _____ _$$$_ l***l f
+
+
+f ****_ ****_ l**** f
+f _***_ _***_ ***** g
+
+g _***_ _***_ *l*** g
+g __**_ __**_ ***** h
+
+h __**_ __**_ **l** h
+h ___*_ ___*_ ***l* ii
+
+ii ___*_ ___*_ ***l* ii
+ii _____ _____ *rrr* ioo
+
+
+ioo _***_ _***_ *rrr* ioo
+ioo _$**_ _$**_ *rrr* ioo
+ioo _*$*_ _*$*_ *rrr* ioo
+ioo _**$_ _**$_ *rrr* ioo
+ioo __**_ __**_ **rr* ioo
+ioo _*_*_ _*_*_ *r*r* ioo
+ioo _**__ _**__ *rr** ioo
+ioo _*$$_ _*$$_ ***** j ; 1a fita maior
+ioo _$*$_ _$*$_ ***** k ;2a fita maior
+ioo _$$*_ _$$*_ ***** io3 ;3a fita maior
+ioo _$$$_ _$$$_ ***** j
+ioo __$*_ __$*_ *l*** io3
+ioo __*$_ __*$_ *l*** k
+ioo __$$_ __$$_ *l*** k
+ioo _$_*_ _$_*_ **l** io3
+ioo _*_$_ _*_$_ **l** j
+ioo _$_$_ _$_$_ **l** j
+ioo _$*__ _$*__ ***l* k
+ioo _*$__ _*$__ ***l* j
+ioo _$$__ _$$__ ***l* j
+
+
+j _***_ _***_ *l*** j ; para copiar a partir da 1 fita
+j __**_ __**_ **r** j
+j ___*_ ___*_ ***r* j
+j _____ _____ r**** jj 
+
+k _***_ _***_ *r*** k ; para copiar a partir da 2 fita
+k __**_ __**_ **l** k
+k ___*_ ___*_ ***r* k
+k _____ _____ r**** kk
+
+
+io3 _***_ _***_ *r*** io3 ; para copiar a partir da 3 fita
+io3 __**_ __**_ **r** io3
+io3 ___*_ ___*_ ***l* io3
+io3 _____ _____ r**** io33 
+
+
+
+jj Q____ Q___Q ****r jjj
+
+jjj Q____ Q___0 r***r jjj
+jjj 1____ 1___1 r***r jjj
+jjj 2____ 2___2 r***r jjj
+jjj 3____ 3___3 r***r jjj
+jjj 4____ 4___4 r***r jjj
+jjj 5____ 5___5 r***r jjj
+jjj 6____ 6___6 r***r jjj
+jjj 7____ 7___7 r***r jjj
+jjj 8____ 8___8 r***r jjj
+jjj 9____ 9___9 r***r jjj
+jjj 0____ 0___0 r***r jjj
+jjj A____ A___A r***r jjjj
+
+jjjj 1____ 1___1 r***r jjjj
+jjjj 2____ 2___2 r***r jjjj
+jjjj 3____ 3___3 r***r jjjj
+jjjj 4____ 4___4 r***r jjjj
+jjjj 5____ 5___5 r***r jjjj
+jjjj 6____ 6___6 r***r jjjj
+jjjj 7____ 7___7 r***r jjjj
+jjjj 8____ 8___8 r***r jjjj
+jjjj 9____ 9___9 r***r jjjj
+jjjj 0____ 0___0 r***r jjjj
+jjjj L____ L___L r***r jjjj
+jjjj R____ R___R r***r jjjj
+jjjj S____ S___S r***r jjjj
+jjjj ;____ ;___; r***r jjjj
+jjjj Y____ Y___Q ****r y
+jjjj N____ N___Q ****r nega
+jjjj Q____ Q____ ***** jj
+jjjj $____ $___; r***r l 
+
+nega N____ N___2 r***r negaa
+negaa N____ N___0 r***r negaa
+negaa A____ A____ ***** jjj
+
+y Y____ Y___1 r***r yy
+
+yy Y____ Y___0 r***r yy
+yy A____ A____ ***** jjj
+
+
+l Q____ Q___Q *r**r l
+l Q*___ Q*__1 s***r ll
+
+
+ll Q0___ Q0__0 sr**r ll
+ll *$___ *$___ r**** ll
+ll Y$___ Y$___ l***l n
+ll A$___ A$___ l***l n
+ll N$___ N$___ l***l n
+
+
+
+n 0*__* 0*__0 l***l n
+n 1*__* 1*__1 l***l n
+n 2*__* 2*__2 l***l n
+n 3*__* 3*__3 l***l n
+n 4*__* 4*__4 l***l n
+n 5*__* 5*__5 l***l n
+n 6*__* 6*__6 l***l n
+n 7*__* 7*__7 l***l n
+n 8*__* 8*__8 l***l n
+n 9*__* 9*__9 l***l n
+n Q*__* Q*__* r**** nn
+
+nn **__* **__* r**** nn
+nn A*__* A*__* *l*** nn
+nn A___* A___* ****r nn
+nn A____ A___A r***r o
+nn Y*__* Y*__* *l*** nn
+nn Y___* Y___* ****r nn
+nn Y____ Y___Y ****r o
+nn N*__* N*__* *l*** nn
+nn N___* N___* ****r nn
+nn N____ N___N ****r o
+
+
+o 0____ 0___0 r***r o
+o 1____ 1___1 r***r o
+o 2____ 2___2 r***r o
+o 3____ 3___3 r***r o
+o 4____ 4___4 r***r o
+o 5____ 5___5 r***r o
+o 6____ 6___6 r***r o
+o 7____ 7___7 r***r o
+o 8____ 8___8 r***r o
+o 9____ 9___9 r***r o
+o L____ L___L r***r o
+o R____ R___R r***r o
+o S____ S___S r***r o
+o ;____ ;___; r***r o
+o Q____ Q____ ***** l
+o Y____ Y___Y *r**r oo
+o N____ N___N *r**r ooo
+o $____ $___; r***r est3 ;meter pra maqina 3
+
+ooo N*___ N*___ r**** ooo
+ooo A*___ A*__N *r**r ooo
+ooo A____ A____ *l*** oo2
+
+oo Y*___ Y*___ r**** oo
+oo A*___ A*__Y *r**r oo
+oo A____ A____ *l*** oo2
+
+oo2 A*___ A*___ *l*** oo2
+oo2 A____ A____ ***** nn
+
+est3 Q____ Q___Q *r**r est3
+est3 Q*___ Q*__2 s***r ll3
+
+
+ll3 Q0___ Q0__0 sr**r ll3
+ll3 *$___ *$___ r**** ll3
+ll3 Y$___ Y$___ l***l n3
+ll3 A$___ A$___ l***l n3
+ll3 N$___ N$___ l***l n3
+
+
+n3 0*__* 0*__0 l***l n3
+n3 1*__* 1*__1 l***l n3
+n3 2*__* 2*__2 l***l n3
+n3 3*__* 3*__3 l***l n3
+n3 4*__* 4*__4 l***l n3
+n3 5*__* 5*__5 l***l n3
+n3 6*__* 6*__6 l***l n3
+n3 7*__* 7*__7 l***l n3
+n3 8*__* 8*__8 l***l n3
+n3 9*__* 9*__9 l***l n3
+n3 Q*__* Q*__* r**** nn3
+
+nn3 **__* **__* r**** nn3
+nn3 A*__* A*__* *l*** nn3
+nn3 A___* A___* ****r nn3
+nn3 A____ A___A r***r o3
+nn3 Y*__* Y*__* *l*** nn3
+nn3 Y___* Y___* ****r nn3
+nn3 Y____ Y___Y ****r o3
+nn3 N*__* N*__* *l*** nn3
+nn3 N___* N___* ****r nn3
+nn3 N____ N___N ****r o3
+
+
+o3 0____ 0___0 r***r o3
+o3 1____ 1___1 r***r o3
+o3 2____ 2___2 r***r o3
+o3 3____ 3___3 r***r o3
+o3 4____ 4___4 r***r o3
+o3 5____ 5___5 r***r o3
+o3 6____ 6___6 r***r o3
+o3 7____ 7___7 r***r o3
+o3 8____ 8___8 r***r o3
+o3 9____ 9___9 r***r o3
+o3 L____ L___L r***r o3
+o3 R____ R___R r***r o3
+o3 S____ S___S r***r o3
+o3 ;____ ;___; r***r o3
+o3 Q____ Q____ ***** est3
+o3 Y____ Y___Y *r**r oo3
+o3 N____ N___N *r**r ooo33
+o3 $____ $___; r***r est3 ;meter pra maqina 3
+o3 _____ _____ ****l aceitar
+
+ooo3 N*___ N*___ r**** ooo3
+ooo3 A*___ A*__N *r**r ooo3
+ooo3 A____ A____ *l*** oo23
+
+oo3 Y*___ Y*___ r**** oo3
+oo3 A*___ A*__Y *r**r oo3
+oo3 A____ A____ *l*** oo23
+
+oo23 A*___ A*___ *l*** oo23
+oo23 A____ A____ ***** nn3
+
+
+
+
+; 2 caso
+
+
+kk Q____ Q___Q **r*r p
+p Q_*__ Q_*_0 ****r pp
+
+
+pp Q_0__ Q_0_0 s*r*r pp
+pp *_$__ *_$__ r**** pp
+pp Y_$__ Y_$__ l***l q
+pp A_$__ A_$__ l***l q
+pp N_$__ N_$__ l***l q
+
+q 0_*_* 0_*_0 l***l q
+q 1_*_* 1_*_1 l***l q
+q 2_*_* 2_*_2 l***l q
+q 3_*_* 3_*_3 l***l q
+q 4_*_* 4_*_4 l***l q
+q 5_*_* 5_*_5 l***l q
+q 6_*_* 6_*_6 l***l q
+q 7_*_* 7_*_7 l***l q
+q 8_*_* 8_*_8 l***l q
+q 9_*_* 9_*_9 l***l q
+q Q_*_* Q_*_* r**** qq
+
+qq *_*_* *_*_* r**** qq
+qq A_*_* A_*_* **l** qq
+qq A___* A___* ****r qq
+qq A____ A___A r***r r
+
+qq N_*_* N_*_* **l** qq
+qq N___* N___* ****r qq
+qq N____ N___N r***r r
+
+
+qq Y_*_* Y_*_* **l** qq
+qq Y___* Y___* ****r qq
+qq Y____ Y____ ***** qqq
+
+
+qqq Y____ Y____ r**** qqq
+qqq *____ *____ ***** r
+
+r 0____ 0___0 r***r r
+r 1____ 1___1 r***r r
+r 2____ 2___2 r***r r
+r 3____ 3___3 r***r r
+r 4____ 4___4 r***r r
+r 5____ 5___5 r***r r
+r 6____ 6___6 r***r r
+r 7____ 7___7 r***r r
+r 8____ 8___8 r***r r
+r 9____ 9___9 r***r r
+r L____ L___L r***r r
+r R____ R___R r***r r
+r S____ S___S r***r r
+r ;____ ;___; r***r r
+r Q____ Q____ ***** kk
+r Y____ Y___Q ****r rr
+r N____ N___Q ****r nao
+r $____ $___; r***r sss
+
+nao N____ N____ r**** nao
+nao A____ A___2 **r*r nao
+nao A_0__ A_0_0 **r*r nao
+nao A_*__ A_*__ ***** nao2
+
+nao2 A_*__ A_*__ **l** nao2
+nao2 A____ A____ ***** qq
+
+rr Y____ Y___1 **r*r rr
+rr Y_0__ Y_0_0 **r*r rr
+rr Y_*__ Y_*__ r**** rr
+rr A_*__ A_*__ ***** rrr
+
+rrr A_*__ A_*__ **l** rrr
+rrr A____ A____ ***** qq
+
+
+sss Q____ Q___Q ****r ssss
+ssss Q____ Q___1 r***r s
+
+
+s 1____ 1___1 r***r s
+s 2____ 2___2 r***r s
+s 3____ 3___3 r***r s
+s 4____ 4___4 r***r s
+s 5____ 5___5 r***r s
+s 6____ 6___6 r***r s
+s 7____ 7___7 r***r s
+s 8____ 8___8 r***r s
+s 9____ 9___9 r***r s
+s 0____ 0___0 r***r s
+s A____ A___A r***r ss
+
+
+ss 1____ 1___1 r***r ss
+ss 2____ 2___2 r***r ss
+ss 3____ 3___3 r***r ss
+ss 4____ 4___4 r***r ss
+ss 5____ 5___5 r***r ss
+ss 6____ 6___6 r***r ss
+ss 7____ 7___7 r***r ss
+ss 8____ 8___8 r***r ss
+ss 9____ 9___9 r***r ss
+ss 0____ 0___0 r***r ss
+ss L____ L___L r***r ss
+ss R____ R___R r***r ss
+ss S____ S___S r***r ss
+ss ;____ ;___; r***r ss
+ss Y____ Y___Y **r*r ye
+ss N____ N___N **r*r ultn
+ss Q____ Q____ ***** sss
+ss $____ $___; r***r est23
+
+ultn N_0__ N_0_N **r*r ultn
+ultn N_$__ N_$_N ****r ultn2
+
+ultn2 N_$__ N_$__ r**** ultn2
+ultn2 A_*__ A_*__ **l** ultn2
+ultn2 A____ A____ ***** s
+
+
+ye Y_0__ Y_0_Y **r*r ye
+ye Y_$__ Y_$_Y ****r yee
+
+
+yee Y_$__ Y_$__ r**** yee
+yee A_*__ A_*__ **l** yee
+yee A____ A____ ***** s
+
+
+est23 Q____ Q___Q **r*r est23
+est23 Q_*__ Q_*_2 ****r pp3
+
+
+pp3 Q_0__ Q_0_0 s*r*r pp3
+pp3 *_$__ *_$__ r**** pp3
+pp3 Y_$__ Y_$__ l***l q3
+pp3 A_$__ A_$__ l***l q3
+pp3 N_$__ N_$__ l***l q3
+
+q3 0_*_* 0_*_0 l***l q3
+q3 1_*_* 1_*_1 l***l q3
+q3 2_*_* 2_*_2 l***l q3
+q3 3_*_* 3_*_3 l***l q3
+q3 4_*_* 4_*_4 l***l q3
+q3 5_*_* 5_*_5 l***l q3
+q3 6_*_* 6_*_6 l***l q3
+q3 7_*_* 7_*_7 l***l q3
+q3 8_*_* 8_*_8 l***l q3
+q3 9_*_* 9_*_9 l***l q3
+q3 Q_*_* Q_*_* r**** qq3
+
+qq3 *_*_* *_*_* r**** qq3
+qq3 A_*_* A_*_* **l** qq3
+qq3 A___* A___* ****r qq3
+qq3 A____ A___A r***r r3
+
+qq3 N_*_* N_*_* **l** qq3
+qq3 N___* N___* ****r qq3
+qq3 N____ N___N r***r r3
+
+
+qq3 Y_*_* Y_*_* **l** qq3
+qq3 Y___* Y___* ****r qq3
+qq3 Y____ Y____ ***** qqq3
+
+
+qqq3 Y____ Y____ r**** qqq3
+qqq3 *____ *____ ***** r3
+
+r3 0____ 0___0 r***r r3
+r3 1____ 1___1 r***r r3
+r3 2____ 2___2 r***r r3
+r3 3____ 3___3 r***r r3
+r3 4____ 4___4 r***r r3
+r3 5____ 5___5 r***r r3
+r3 6____ 6___6 r***r r3
+r3 7____ 7___7 r***r r3
+r3 8____ 8___8 r***r r3
+r3 9____ 9___9 r***r r3
+r3 L____ L___L r***r r3
+r3 R____ R___R r***r r3
+r3 S____ S___S r***r r3
+r3 ;____ ;___; r***r r3
+r3 Q____ Q____ ***** est23
+r3 Y____ Y___Y ****r rr3
+r3 N____ N____ ***** nao3
+r3 $____ $___; r***r sss3
+r3 _____ _____ ****l aceitar
+
+nao3 N____ N___N r***r nao3
+nao3 A____ A____ **r** nao3
+nao3 A_0__ A_0_N **r*r nao3
+nao3 A_*__ A_*__ ***** nao23
+
+nao23 A_*__ A_*__ **l** nao23
+nao23 A____ A____ ***** qq3
+
+rr3 Y____ Y___Y **r*r rr3
+rr3 Y_0__ Y_0_Y **r*r rr3
+rr3 Y_*__ Y_*__ r**** rr3
+rr3 A_*__ A_*__ ***** rrr3
+
+rrr3 A_*__ A_*__ **l** rrr3
+rrr3 A____ A____ ***** qq3
+
+
+
+; 3 caso
+
+
+
+io33 Q____ Q___Q ***rr io333
+io333 Q__*_ Q__*0 ****r pp33
+
+
+pp33 Q__0_ Q__00 s**rr pp33
+pp33 *__$_ *__$_ r**** pp33
+pp33 Y__$_ Y__$_ l***l q33
+pp33 A__$_ A__$_ l***l q33
+pp33 N__$_ N__$_ l***l q33
+
+q33 0__** 0__*0 l***l q33
+q33 1__** 1__*1 l***l q33
+q33 2__** 2__*2 l***l q33
+q33 3__** 3__*3 l***l q33
+q33 4__** 4__*4 l***l q33
+q33 5__** 5__*5 l***l q33
+q33 6__** 6__*6 l***l q33
+q33 7__** 7__*7 l***l q33
+q33 8__** 8__*8 l***l q33
+q33 9__** 9__*9 l***l q33
+q33 Q__** Q__** r**** qq33
+
+qq33 *__** *__** r**** qq33
+qq33 A__** A__** ***l* qq33
+qq33 A___* A___* ****r qq33
+qq33 A____ A___A r***r r33
+
+qq33 N__** N__** ***l* qq33
+qq33 N___* N___* ****r qq33
+qq33 N____ N___N r***r r33
+
+
+qq33 Y__** Y__** ***l* qq33
+qq33 Y___* Y___* ****r qq33
+qq33 Y____ Y____ ***** qqq33
+
+
+qqq33 Y____ Y____ r**** qqq33
+qqq33 *____ *____ ***** r33
+
+r33 0____ 0___0 r***r r33
+r33 1____ 1___1 r***r r33
+r33 2____ 2___2 r***r r33
+r33 3____ 3___3 r***r r33
+r33 4____ 4___4 r***r r33
+r33 5____ 5___5 r***r r33
+r33 6____ 6___6 r***r r33
+r33 7____ 7___7 r***r r33
+r33 8____ 8___8 r***r r33
+r33 9____ 9___9 r***r r33
+r33 L____ L___L r***r r33
+r33 R____ R___R r***r r33
+r33 S____ S___S r***r r33
+r33 ;____ ;___; r***r r33
+r33 Q____ Q____ ***** io33
+r33 Y____ Y___Q ****r rr33
+r33 N____ N___Q ****r nao33
+r33 $____ $___; r***r sss33
+
+nao33 N____ N____ r**** nao33
+nao33 A____ A___2 ***rr nao33
+nao33 A__0_ A__00 ***rr nao33
+nao33 A__*_ A__*_ ***** nao233
+
+nao233 A__*_ A__*_ ***l* nao233
+nao233 A____ A____ ***** qq33
+
+rr33 Y____ Y___1 ***rr rr33
+rr33 Y__0_ Y__00 ***rr rr33
+rr33 Y__*_ Y__*_ r**** rr33
+rr33 A__*_ A__*_ ***** rrr33
+
+rrr33 A__*_ A__*_ ***l* rrr33
+rrr33 A____ A____ ***** qq33
+
+
+
+
+sss33 Q____ Q___Q ***rr sss33
+sss33 Q__*_ Q__*1 ****r pp3z
+
+
+pp3z Q__0_ Q__00 s**rr pp3z
+pp3z *__$_ *__$_ r**** pp3z
+pp3z Y__$_ Y__$_ l***l q3z
+pp3z A__$_ A__$_ l***l q3z
+pp3z N__$_ N__$_ l***l q3z
+
+q3z 0__** 0__*0 l***l q3z
+q3z 1__** 1__*1 l***l q3z
+q3z 2__** 2__*2 l***l q3z
+q3z 3__** 3__*3 l***l q3z
+q3z 4__** 4__*4 l***l q3z
+q3z 5__** 5__*5 l***l q3z
+q3z 6__** 6__*6 l***l q3z
+q3z 7__** 7__*7 l***l q3z
+q3z 8__** 8__*8 l***l q3z
+q3z 9__** 9__*9 l***l q3z
+q3z Q__** Q__** r**** qq3z
+
+qq3z *__** *__** r**** qq3z
+qq3z A__** A__** ***l* qq3z
+qq3z A___* A___* ****r qq3z
+qq3z A____ A___A r***r r3z
+
+qq3z N__** N__** ***l* qq3z
+qq3z N___* N___* ****r qq3z
+qq3z N____ N___N r***r r3z
+
+
+qq3z Y__** Y__** ***l* qq3z
+qq3z Y___* Y___* ****r qq3z
+qq3z Y____ Y____ ***** qqq3z
+
+
+qqq3z Y____ Y____ r**** qqq3z
+qqq3z *____ *____ ***** r3z
+
+r3z 0____ 0___0 r***r r3z
+r3z 1____ 1___1 r***r r3z
+r3z 2____ 2___2 r***r r3z
+r3z 3____ 3___3 r***r r3z
+r3z 4____ 4___4 r***r r3z
+r3z 5____ 5___5 r***r r3z
+r3z 6____ 6___6 r***r r3z
+r3z 7____ 7___7 r***r r3z
+r3z 8____ 8___8 r***r r3z
+r3z 9____ 9___9 r***r r3z
+r3z L____ L___L r***r r3z
+r3z R____ R___R r***r r3z
+r3z S____ S___S r***r r3z
+r3z ;____ ;___; r***r r3z
+r3z Q____ Q____ ***** sss33
+r3z Y____ Y___Y ****r rr3z
+r3z N____ N____ ***** nao3z
+r3z $____ $___; r***r sss3z
+
+
+nao3z N____ N___N r***r nao3z
+nao3z A____ A____ ***r* nao3z
+nao3z A__0_ A__0N ***rr nao3z
+nao3z A__*_ A__*_ ***** nao23z
+
+nao23z A__*_ A__*_ ***l* nao23z
+nao23z A____ A____ ***** qq3z
+
+rr3z Y____ Y___Y ***rr rr3z
+rr3z Y__0_ Y__0Y ***rr rr3z
+rr3z Y__*_ Y__*_ r**** rr3z
+rr3z A__*_ A__*_ ***** rrr3z
+
+rrr3z A__*_ A__*_ ***l* rrr3z
+rrr3z A____ A____ ***** qq3z
+
+
+
+
+sss3z Q____ Q___Q ****r sss3zz
+sss3zz Q____ Q___2 r***r jjjz
+
+
+jjjz 1____ 1___1 r***r jjjz
+jjjz 2____ 2___2 r***r jjjz
+jjjz 3____ 3___3 r***r jjjz
+jjjz 4____ 4___4 r***r jjjz
+jjjz 5____ 5___5 r***r jjjz
+jjjz 6____ 6___6 r***r jjjz
+jjjz 7____ 7___7 r***r jjjz
+jjjz 8____ 8___8 r***r jjjz
+jjjz 9____ 9___9 r***r jjjz
+jjjz 0____ 0___0 r***r jjjz
+jjjz A____ A___A r***r jjjjz
+
+jjjjz 1____ 1___1 r***r jjjjz
+jjjjz 2____ 2___2 r***r jjjjz
+jjjjz 3____ 3___3 r***r jjjjz
+jjjjz 4____ 4___4 r***r jjjjz
+jjjjz 5____ 5___5 r***r jjjjz
+jjjjz 6____ 6___6 r***r jjjjz
+jjjjz 7____ 7___7 r***r jjjjz
+jjjjz 8____ 8___8 r***r jjjjz
+jjjjz 9____ 9___9 r***r jjjjz
+jjjjz 0____ 0___0 r***r jjjjz
+jjjjz L____ L___L r***r jjjjz
+jjjjz R____ R___R r***r jjjjz
+jjjjz S____ S___S r***r jjjjz
+jjjjz ;____ ;___; r***r jjjjz
+jjjjz Y____ Y___Y ****r yz
+jjjjz N____ N___N ****r negaz
+jjjjz Q____ Q____ ***** sss3z
+jjjjz _____ _____ ****l aceitar
+
+negaz N____ N___N r***r negaz
+negaz A____ A____ ***** jjjz
+
+yz Y____ Y___Y r***r yz
+yz A____ A____ ***** jjjz
+
+
+aceitar ____* ____* ****l aceitar
+aceitar _____ _____ ****r halt-accept
